@@ -3,18 +3,29 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - flashlight
+  - bat
+  - vhs
+  - tv
+  - freezelight
+  - freak
+  - lightoff
+  - PlayerwithFlashlight
+  - lvl1
+  - exit
+  - playerbody
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Usable
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
+  - PostProcessing
+  - WhatisPlayer
+  - WhatisGround
+  - Post Processing
   - 
   - 
   - 
